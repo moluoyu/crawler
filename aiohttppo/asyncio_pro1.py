@@ -21,8 +21,6 @@ __mtime__ = '2020/7/4'
  """
 import asyncio
 import json
-import pyppeteer
-from random import random
 
 import aiohttp
 import logging
